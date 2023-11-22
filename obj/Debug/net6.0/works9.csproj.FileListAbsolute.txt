@@ -1,0 +1,15 @@
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\bin\Debug\net6.0\works9.exe
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\bin\Debug\net6.0\works9.deps.json
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\bin\Debug\net6.0\works9.runtimeconfig.json
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\bin\Debug\net6.0\works9.dll
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\bin\Debug\net6.0\works9.pdb
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\works9.csproj.AssemblyReference.cache
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\works9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\works9.AssemblyInfoInputs.cache
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\works9.AssemblyInfo.cs
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\works9.csproj.CoreCompileInputs.cache
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\works9.dll
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\refint\works9.dll
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\works9.pdb
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\works9.genruntimeconfig.cache
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works9\obj\Debug\net6.0\ref\works9.dll
